@@ -1,2 +1,10 @@
 # Teknikservis
-Bilgisayarcı bir arkadaşıma yazdığım teknikseviste kullandığı : Müşteri kayıt , girdi çıktı alma sorgulama teslim etme kısımlarından oluşuyor 
+Bilgisayarcı bir arkadaşıma yazdığım teknikseviste kullandığı
+
+müşteri kaydı çıktısı 
+srogulama , güncelleme 
+teslim etme 
+
+kodlar açık kendinize göre güncelleme yapabılırsınız. exe haline getirdiğinizde. Yöneteci olarak açın ki db kayıtlarını yapsın 
+
+
