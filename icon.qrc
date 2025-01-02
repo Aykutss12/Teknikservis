@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>ikon/cooltext472942123166566.png</file>
+    <file>ikon/dust.png</file>
+    <file>ikon/delete.png</file>
+    <file>ikon/cooltext472756093227380.png</file>
+    <file>ikon/computer.png</file>
+    <file>ikon/cooltext472695298741495.png</file>
+    <file>ikon/delivery - Kopya.png</file>
+    <file>ikon/disk.png</file>
+    <file>ikon/paper.png</file>
+    <file>ikon/people.png</file>
+    <file>ikon/responsible.png</file>
+    <file>ikon/searching.png</file>
+    <file>ikon/computer.png</file>
+    <file>ikon/searching.png</file>
+  </qresource>
+</RCC>

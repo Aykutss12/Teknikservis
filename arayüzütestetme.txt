@@ -1,0 +1,11 @@
+class onarım(QtWidgets.QMainWindow):
+        def __init__(self):
+                super(onarım, self).__init__()
+                self.ui = Ui_Form()
+                self.ui.setupUi(self)
+                
+if __name__=="__main__":
+        app=QtWidgets.QApplication(sys.argv)
+        win=onarım()
+        win.show()
+        sys.exit(app.exec_())                
